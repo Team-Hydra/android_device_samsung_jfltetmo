@@ -30,8 +30,6 @@
 TARGET_OTA_ASSERT_DEVICE := jfltetmo
 
 # Build Optimizations (linaro -O3)
-ARCH_ARM_HAVE_VFP := true
-ARCH_ARM_HAVE_NEON := true 
 ARCH_ARM_HIGH_OPTIMIZATION := true
 ARCH_ARM_HIGH_OPTIMIZATION_COMPAT := true 
 
