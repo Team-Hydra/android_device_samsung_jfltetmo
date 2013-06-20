@@ -38,3 +38,7 @@ TARGET_KERNEL_CONFIG         := jf_tmo_defconfig
 TARGET_KERNEL_VARIANT_CONFIG := chronic_jf_defconfig
 TARGET_KERNEL_CUSTOM_TOOLCHAIN := linaro
 BUILD_KERNEL := true
+
+# Use new media-caf variant
+TARGET_QCOM_MEDIA_VARIANT := caf
+
