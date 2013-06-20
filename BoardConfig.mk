@@ -30,8 +30,8 @@
 TARGET_OTA_ASSERT_DEVICE := jfltetmo
 
 # Build Optimizations (linaro -O3)
-ARCH_ARM_HIGH_OPTIMIZATION := true
-ARCH_ARM_HIGH_OPTIMIZATION_COMPAT := true 
+#ARCH_ARM_HIGH_OPTIMIZATION := true
+#ARCH_ARM_HIGH_OPTIMIZATION_COMPAT := true 
 
 # Kernel
 TARGET_KERNEL_CONFIG         := jf_tmo_defconfig
