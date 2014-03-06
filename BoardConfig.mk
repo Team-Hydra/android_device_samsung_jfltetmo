@@ -27,7 +27,7 @@
 -include vendor/samsung/jfltetmo/BoardConfigVendor.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := jfltetmo,jflte,jfltexx,i9505,GT-I9505,jgedlte,i9505g,GT-I9505G,jfltevzw,jfltespr
+TARGET_OTA_ASSERT_DEVICE := jfltetmo
 
 # Build Optimizations (linaro -O3)
 #ARCH_ARM_HIGH_OPTIMIZATION := true
